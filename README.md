@@ -40,10 +40,10 @@ See the section about deployment for more information.
 
 # Screenshots
 
-#### * Sign-up page
+#### *Sign-up page
 ![Signup](https://user-images.githubusercontent.com/108665278/179986501-35f141a6-d2fe-49b2-834e-4a65c079f5e0.png)
 
-#### * Sign-in page
+#### *Sign-in page
 ![signin](https://user-images.githubusercontent.com/108665278/179986562-75af79c2-573c-4a55-b76c-d5567a12e061.png)
 
 #### * Home page
