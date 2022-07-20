@@ -7,3 +7,23 @@ Second Hand Seller is a MERN Stack based on e-commerce web application. It is a 
 # A complete MERN ecommerce website
 
 This contains all the features that an ecommerce website should have.
+
+#Available Scripts
+
+In the project directory, you can run:
+
+npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
+
+The page will reload when you make changes.
+You may also see any lint errors in the console.
+
+#Technologies used
+HTML
+CSS
+JavaScript
+React
+Node JS, Express JS and MongoDb is used for Backend server.
+
+#Screenshots
