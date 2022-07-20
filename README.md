@@ -40,25 +40,25 @@ See the section about deployment for more information.
 
 # Screenshots
 
-#### Sign-up page
+####* Sign-up page
 ![Signup](https://user-images.githubusercontent.com/108665278/179986501-35f141a6-d2fe-49b2-834e-4a65c079f5e0.png)
 
-#### Sign-in page
+####* Sign-in page
 ![signin](https://user-images.githubusercontent.com/108665278/179986562-75af79c2-573c-4a55-b76c-d5567a12e061.png)
 
-#### Home page
+####* Home page
 ![home page](https://user-images.githubusercontent.com/108665278/179986618-93cb7be9-ad60-4caa-ab75-d4477b59ebb7.png)
 
 ![home page 2](https://user-images.githubusercontent.com/108665278/179986648-0630220e-0caa-47ae-bab9-20790c48f31e.png)
 
-#### Upload your property page
+####* Upload your property page
 ![upload property](https://user-images.githubusercontent.com/108665278/179986771-66fa23eb-2a64-467b-9a67-398b13ef8f35.png)
 
-#### Product detail page
+####* Product detail page
 ![general detail](https://user-images.githubusercontent.com/108665278/179986857-b051ab4e-695b-49f4-8273-dff740c9db78.png)
 
 ![general detail 2](https://user-images.githubusercontent.com/108665278/179986902-86ad9fbe-d667-4d5f-8be0-f6131dacabbf.png)
 
-#### About Us
+####* About Us
 ![about us](https://user-images.githubusercontent.com/108665278/179986964-28a8c366-daf7-4417-9935-5bc661377e69.png)
 
