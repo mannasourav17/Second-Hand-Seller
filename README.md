@@ -20,10 +20,9 @@ The page will reload when you make changes.
 You may also see any lint errors in the console.
 
 # Technologies used
-HTML
-CSS
-JavaScript
-React
+HTML, 
+CSS, 
+JavaScript, 
+React JS, 
 Node JS, Express JS and MongoDb is used for Backend server.
 
-# Screenshots
