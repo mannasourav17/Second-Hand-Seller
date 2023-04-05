@@ -59,6 +59,3 @@ See the section about deployment for more information.
 
 ![general detail 2](https://user-images.githubusercontent.com/108665278/179986902-86ad9fbe-d667-4d5f-8be0-f6131dacabbf.png)
 
-#### About Us
-![about us](https://user-images.githubusercontent.com/108665278/179986964-28a8c366-daf7-4417-9935-5bc661377e69.png)
-
