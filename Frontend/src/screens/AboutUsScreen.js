@@ -30,7 +30,7 @@ const AboutUsScreen = () => {
             Sourav Manna{' '}
           </p>
           <h3>Contact Details</h3>
-          <i className='fas fa-phone'></i> 7033624722
+          <i className='fas fa-phone'></i> 703*****02
           <br />
           <i className='fas fa-envelope-square'></i>{' '}
           <a target='_blank' href={`mailto:mannasourav111@gmail.com`}>
